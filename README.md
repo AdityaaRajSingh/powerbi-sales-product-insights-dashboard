@@ -40,7 +40,7 @@ The dashboard consists of two interactive pages:
 
 🔗 View the Interactive Power BI Dashboard:
 
-[Click Here to Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI0YWEyMzYtNzQ1Yy00MDc4LTkwY2EtYjYwOWVkZjZiNzdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI0YWEyMzYtNzQ1Yy00MDc4LTkwY2EtYjYwOWVkZjZiNzdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=eaef6e8286d77dba91fd)
 
 ---
 
