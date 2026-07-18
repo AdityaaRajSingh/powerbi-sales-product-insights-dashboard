@@ -35,7 +35,14 @@ The dashboard consists of two interactive pages:
 
 ### Product Insights
 
-### Direct Link To The Dashbpard- https://app.powerbi.com/view?r=eyJrIjoiOTI0YWMyYzUtNzQ1Yy00MDc4LTkwY2EtYjYwOWVkZjZiNzdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU1LWQ0MjQ0ZGM1YjJjNCJ9
+
+### Live Interactive Dashboard
+
+🔗 View the Interactive Power BI Dashboard:
+
+[Click Here to Open Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTI0YWEyMzYtNzQ1Yy00MDc4LTkwY2EtYjYwOWVkZjZiNzdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
 
 ## Key Skills Demonstrated
 
